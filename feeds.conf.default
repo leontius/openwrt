@@ -10,3 +10,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 
 # leontius's openwrt packages
 src-git kenzo https://github.com/leontius/openwrt-packages
+src-git small https://github.com/leontius/small
